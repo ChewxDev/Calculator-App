@@ -1,6 +1,8 @@
 # calculator
 
-A new Flutter project.
+![alt-text](https://gfycat.com/chieftinyarcticfox)
+
+Calculator Using Flutter Framework
 
 ## Getting Started
 
