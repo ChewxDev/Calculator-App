@@ -1,18 +1,12 @@
 # calculator
 
-(![3gSW](https://user-images.githubusercontent.com/91054021/141665464-239858a7-24b3-4ae1-8920-2b965134d0db.gif))
+![3gSW](https://user-images.githubusercontent.com/91054021/141665464-239858a7-24b3-4ae1-8920-2b965134d0db.gif)
 
 Calculator Using Flutter Framework
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ ## Quite a easy app for the more seasoned programmers, but quite a major win for me, and I love the constat progress, 
+## and hope I get the opportunity to continue the progress.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project does all the functions of a calculator.
