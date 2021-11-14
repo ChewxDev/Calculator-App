@@ -1,6 +1,6 @@
 # calculator
 
-![alt-text](https://gfycat.com/chieftinyarcticfox)
+![alt-text](https://images.app.goo.gl/dfecNKfiCACyzFJg7)
 
 Calculator Using Flutter Framework
 
