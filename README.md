@@ -1,6 +1,6 @@
 # calculator
 
-![alt-text](https://tenor.com/view/laughing-crying-stress-tears-of-joy-gif-14770464)
+![alt-text](https://tenor.com/view/laughing-crying-stress-tears-of-joy-gif-14770464.gif)
 
 Calculator Using Flutter Framework
 
